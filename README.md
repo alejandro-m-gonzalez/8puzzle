@@ -1,1 +1,4 @@
 # 8puzzle
+streamlit>=1.36
+pillow>=10.0
+pillow-avif-plugin>=1.4
